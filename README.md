@@ -42,9 +42,7 @@ I'm passionate about art and UX design, and through studying development it has 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="stats.svg" alt="GitHub Stats" width="60%" />
-</p>
+![GitHub Stats](https://raw.githubusercontent.com/Joelene241161/Joelene241161/main/stats.svg)
 
 ---
 
