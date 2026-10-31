@@ -42,7 +42,7 @@ I'm passionate about art and UX design, and through studying development it has 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://raw.githubusercontent.com/Joelene241161/Joelene241161/main/stats.svg)
+![GitHub Stats](https://raw.githubusercontent.com/Joelene241161/Joelene241161/main/stats.svg?sanitize=true&v=2)
 
 ---
 
