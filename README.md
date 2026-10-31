@@ -43,8 +43,7 @@ I'm passionate about art and UX design, and through studying development it has 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joelene241161&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelene241161&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="stats.svg" alt="GitHub Stats" width="60%" />
 </p>
 
 ---
